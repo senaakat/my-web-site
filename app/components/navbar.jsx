@@ -3,8 +3,8 @@
 import React, { useEffect, useState, useRef } from "react";
 import { MenuItems } from "../lib/MenuItems.js";
 import Link from "next/link";
-import Drawer from "./drawer.tsx";
 import ActiveLink from "./activeLink";
+import Drawer from "@/app/components/drawer";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);

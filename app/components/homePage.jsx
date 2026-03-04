@@ -26,7 +26,6 @@ export default function HomePage() {
                 setDeleting(true)
             }, 1000);
             return;
-            ;
         }
 
         if (deleting && subIndex === 0) {
