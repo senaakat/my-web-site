@@ -37,6 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # My Personel Website
 
+Project website: https://senaakat.com.tr
+
 ![Home Page](./public/myWebSite/1.png)
 ![About](./public/myWebSite/2.png)
 ![About](./public/myWebSite/3.png)
