@@ -3,7 +3,7 @@ import HomePage from "./components/homePage";
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-    title: "<Sena AKAT/>",
+    title: "Sena AKAT",
     description: "Hi, I'm Senaakat. A Full Stack Developer specializing in Java and React.",
     openGraph: {
         title: "Sena AKAT | Full Stack Developer",
