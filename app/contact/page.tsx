@@ -6,6 +6,9 @@ import FormBox from "@/app/components/contact/FormBox";
 export const metadata: Metadata = {
     title: "Contact",
     description: "Get in touch with Senaakat for collaboration, freelance work, or just to say hi.",
+    alternates: {
+        canonical: "/contact",
+    },
     openGraph: {
         title: "Contact | Sena AKAT | Full Stack Developer",
         description: "Get in touch with Senaakat for collaboration, freelance work, or just to say hi.",

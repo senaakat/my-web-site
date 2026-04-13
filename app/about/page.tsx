@@ -15,6 +15,9 @@ import { Metadata } from "next"
 export const metadata: Metadata = {
     title: "About",
     description: "Learn more about Senaakat, a Full Stack Developer with expertise in Java and React.",
+    alternates: {
+        canonical: "/about",
+    },
     openGraph: {
         title: "About | Sena AKAT | Full Stack Developer",
         description: "Learn more about Senaakat, a Full Stack Developer with expertise in Java and React.",

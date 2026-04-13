@@ -5,6 +5,9 @@ import { Metadata } from "next"
 export const metadata: Metadata = {
     title: "Sena AKAT",
     description: "Hi, I'm Senaakat. A Full Stack Developer specializing in Java and React.",
+    alternates: {
+        canonical: "/",
+    },
     openGraph: {
         title: "Sena AKAT | Full Stack Developer",
         description: "Hi, I'm Senaakat. A Full Stack Developer specializing in Java and React.",

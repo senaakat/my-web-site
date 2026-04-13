@@ -11,6 +11,7 @@ export const metadata: Metadata = {
         default: "Sena AKAT>",
     },
     description: "...",
+    metadataBase: new URL("https://senaakat.com.tr"),
 }
 
 interface Props {

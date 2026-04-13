@@ -5,6 +5,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Experience",
     description: "Senaakat's professional experience as a Full Stack Developer in Java and React ecosystems.",
+    alternates: {
+        canonical: "/experience",
+    },
     openGraph: {
         title: "Experience | Sena AKAT | Full Stack Developer",
         description: "Senaakat's professional experience as a Full Stack Developer in Java and React ecosystems.",
